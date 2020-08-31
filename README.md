@@ -1,6 +1,6 @@
 ## บริษัท Qube Digital Contents รับสมัคร Web Developer (full time)
 
-บริษัท Qube Digital Contents เป็นบริษัทขนาดเล็กที่กำลังเติบโต ซึ่งเป็นผู้พัฒนาเวปไซต์ mangaqube.com รวมไปถึง application บน mobile ต้องการรับสมัคร Web Developer
+บริษัท Qube Digital Contents เป็นบริษัทขนาดเล็กที่กำลังเติบโต ซึ่งเป็นผู้พัฒนาเว็บไซต์ mangaqube.com รวมไปถึง application บน mobile ต้องการรับสมัคร Web Developer
 
 รับผิดชอบในการพัฒนาเว็บแอพลิเคชั่น ตั้งแต่ส่วนติดต่อกับผู้ใช้ รวมไปถึงระบบ Backend สามารถพัฒนาเว็บไซต์โดยคำนึงถึงการใช้งานของผู้ใช้เป็นหลัก
 สามารถทำงานเป็นทีมร่วมกับ developer คนอื่นในทีม และฝ่ายอื่นๆได้
@@ -22,10 +22,10 @@
 
 ## บริษัท Qube Digital Contents รับสมัคร Mobile Application Developer (full time)
 
-บริษัท Qube Digital Contents เป็นบริษัทขนาดเล็กที่กำลังเติบโต ซึ่งเป็นผู้พัฒนาเวปไซต์ mangaqube.com รวมไปถึง application บน mobile ต้องการรับสมัคร Mobile Application Developer
+บริษัท Qube Digital Contents เป็นบริษัทขนาดเล็กที่กำลังเติบโต ซึ่งเป็นผู้พัฒนาเว็บไซต์ mangaqube.com รวมไปถึง application บน mobile ต้องการรับสมัคร Mobile Application Developer
 
 รับผิดชอบในการพัฒนาแอพลิเคชั่นบนมือถือและแท็บเล็ต ตั้งแต่ส่วนติดต่อกับผู้ใช้ รวมไปถึงระบบติดต่อกับ Backend ผ่าน REST API โดยสามารถพัฒนาและออกแบบโดยคำนึงถึงการใช้งานของผู้ใช้เป็นหลัก
-สามารถทำงานเป็นทีมร่วมกับ developer และฝ่ายอื่นๆ ได้
+สามารถทำงานเป็นทีมร่วมกับ developer คนอื่นในทีม และฝ่ายอื่นๆ ได้
 
 ### คุณสมบัติ 
 - พัฒนาพัฒนาแอพลิเคชั่นบนมือถือและแท็บเล็ต Android, iOS
